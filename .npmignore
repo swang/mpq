@@ -1,0 +1,6 @@
+*_header.js
+.gitignore
+mpq.html
+docs/mpq/mpq.html
+test.js
+*.sc2replay
