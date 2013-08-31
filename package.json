@@ -1,0 +1,22 @@
+{
+  "name": "mpq",
+  "version": "0.0.1",
+  "description": "mpq archive reader in javascript",
+  "main": "lib/mpq.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swang/mpq.git"
+  },
+  "keywords": [
+    "mpq"
+  ],
+  "author": "Shuan Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swang/mpq/issues"
+  },
+  "bin" : { "mpqjs" : "./bin/mpqjs.js" }
+}
