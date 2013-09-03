@@ -14,8 +14,8 @@ Entertainment.
 
 ## example
 
-- currently only the -t parameter of mpyq is supported so after
-installing, run the bin `mpqjs` with the -t parameter and include
+- currently only the -I parameter of mpyq is supported so after
+installing, run the bin `mpqjs` with the -I parameter and include
 a filename like so:
 
 `mpqjs -I [filename]`
